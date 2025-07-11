@@ -1,0 +1,18 @@
+{
+  "id": 654321,
+  "category": {
+    "id": 2,
+    "name": "cat"
+  },
+  "name": "Coco",
+  "photoUrls": [
+   "https://example.com/photo1.jpg"
+  ],
+  "tags": [
+    {
+      "id": 0,
+      "name": "string"
+    }
+  ],
+  "status": "available"
+}
