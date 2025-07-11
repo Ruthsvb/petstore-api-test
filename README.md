@@ -47,7 +47,7 @@ pip install -r requirements.txt
 locust
 ```
 
-3. Se tu navegador en [http://localhost:8089]
+3. En tu navegador en [http://localhost:8089]
 
 4. Ingresa los parámetros de la prueba (usuarios, spawn rate, etc.) y haz clic en “Start swarming”.
 
